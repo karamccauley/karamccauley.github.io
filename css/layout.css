@@ -1,0 +1,32 @@
+div {
+    border: 2px solid #594c8c;
+    position: absolute;
+}
+
+.navbar {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 235px;
+}
+
+.leftpanel {
+    top: 250px;
+    left: 5px;
+    bottom: 2px;
+    width: 32%;
+}
+
+.rightpanel {
+    top: 250px;
+    right: 5px;
+    bottom: 2px;
+    width: 32%;
+}
+
+.mainpanel {
+    top: 250px;
+    bottom: 2px;
+    left: 33%;
+    right: 33%;
+}
